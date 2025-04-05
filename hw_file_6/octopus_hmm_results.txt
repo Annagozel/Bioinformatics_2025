@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_014785658.1       -          Helicase_C_2         PF13307.12   3.3e-51  174.3   0.0   3.3e-51  174.3   0.0   2.3   3   0   0   3   3   3   1 ATP-dependent DNA helicase DDX11 [Octopus bimaculoides]
+XP_052828980.1       -          Helicase_C_2         PF13307.12   4.8e-49  167.3   0.0   1.1e-48  166.1   0.0   1.7   1   0   0   1   1   1   1 regulator of telomere elongation helicase 1 [Octopus bimaculoides]
+XP_014773440.1       -          Helicase_C_2         PF13307.12   1.5e-48  165.8   0.2   4.3e-48  164.2   0.0   2.0   2   0   0   2   2   2   1 Fanconi anemia group J protein homolog [Octopus bimaculoides]
+XP_052833174.1       -          Helicase_C_2         PF13307.12   4.1e-35  122.0   0.0   1.1e-34  120.6   0.0   1.7   1   0   0   1   1   1   1 general transcription and DNA repair factor IIH helicase subunit XPD [Octopus bimaculoides]
+XP_014779438.1       -          Helicase_C_2         PF13307.12    0.0081   16.9   0.0    0.0081   16.9   0.0   2.0   2   0   0   2   2   2   1 ATP-dependent RNA helicase DDX55 [Octopus bimaculoides]
+XP_014786134.1       -          Helicase_C_2         PF13307.12     0.018   15.8   0.0     0.032   15.0   0.0   1.4   1   0   0   1   1   1   0 probable ATP-dependent RNA helicase DDX5 isoform X2 [Octopus bimaculoides]
+XP_014786133.1       -          Helicase_C_2         PF13307.12     0.018   15.7   0.0     0.032   14.9   0.0   1.4   1   0   0   1   1   1   0 probable ATP-dependent RNA helicase DDX5 isoform X1 [Octopus bimaculoides]
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      helicase.hmm
+# Target file:     octopus/ncbi_dataset/data/GCF_001194135.2/protein.faa
+# Option settings: hmmsearch --tblout octopus_hmm_results.txt helicase.hmm octopus/ncbi_dataset/data/GCF_001194135.2/protein.faa 
+# Current dir:     /home/ajumageldiyeva/homework/task6
+# Date:            Sat Apr  5 23:50:59 2025
+# [ok]

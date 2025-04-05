@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+KAJ8452039.1         -          Helicase_C_2         PF13307.12   1.7e-49  169.1   0.0   3.4e-49  168.1   0.0   1.6   1   0   0   1   1   1   1 hypothetical protein Cgig2_016620 [Carnegiea gigantea]
+KAJ8429385.1         -          Helicase_C_2         PF13307.12   1.9e-38  133.0   0.1   4.7e-38  131.8   0.0   1.7   2   0   0   2   2   2   1 hypothetical protein Cgig2_002007 [Carnegiea gigantea]
+KAJ8422828.1         -          Helicase_C_2         PF13307.12     2e-33  116.8   0.0   9.9e-33  114.5   0.0   2.2   2   1   0   2   2   2   1 hypothetical protein Cgig2_022179 [Carnegiea gigantea]
+KAJ8440039.1         -          Helicase_C_2         PF13307.12   7.7e-31  108.3   0.0   2.9e-30  106.4   0.0   2.0   1   0   0   1   1   1   1 hypothetical protein Cgig2_020527 [Carnegiea gigantea]
+KAJ8432252.1         -          Helicase_C_2         PF13307.12   0.00013   23.0   0.0    0.0003   21.8   0.0   1.6   1   0   0   1   1   1   1 hypothetical protein Cgig2_013905 [Carnegiea gigantea]
+KAJ8426859.1         -          Helicase_C_2         PF13307.12     0.011   16.7   0.0      0.06   14.3   0.0   2.2   2   1   0   2   2   2   0 hypothetical protein Cgig2_008654 [Carnegiea gigantea]
+KAJ8430407.1         -          Helicase_C_2         PF13307.12     0.027   15.4   0.0     0.063   14.2   0.0   1.7   1   0   0   1   1   1   0 hypothetical protein Cgig2_015899 [Carnegiea gigantea]
+KAJ8450519.1         -          Helicase_C_2         PF13307.12      0.13   13.1   0.2      0.58   11.1   0.0   2.0   2   0   0   2   2   2   0 hypothetical protein Cgig2_020156 [Carnegiea gigantea]
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      helicase.hmm
+# Target file:     cactus/ncbi_dataset/data/GCA_029747015.1/protein.faa
+# Option settings: hmmsearch --tblout cactus_hmm_results.txt helicase.hmm cactus/ncbi_dataset/data/GCA_029747015.1/protein.faa 
+# Current dir:     /home/ajumageldiyeva/homework/task6
+# Date:            Sat Apr  5 23:44:58 2025
+# [ok]
