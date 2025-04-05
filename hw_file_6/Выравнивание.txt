@@ -1,0 +1,16 @@
+>XP_014785658.1 ATP-dependent DNA helicase DDX11 [Octopus bimaculoides]
+MCDDFSDDDGTDELLSAISFDVLPEVKKDTNGKNSSPSPKETQKQDYVNVPEEFPFPFIP
+YNIQLGFMKALYECLQLGKI----------------------------------------
+------------------------
+>XP_052828980.1 regulator of telomere elongation helicase 1 [Octopus bimaculoides]
+-------------------------------------------MVHIA------------
+---------EMKAKWNQKSVDRWVNSSEPQKRELSYWCLCPGFTMKEFVSLGIKCLILTS
+GTLSPMSTFSSELKIPFPVVLQNP
+>KAJ8452039.1 hypothetical protein Cgig2_016620 [Carnegiea gigantea]
+-----------------------------------------MPIYNIRGIEVDFPYDA--
+YDCQITYMDKVIQALQEKT-NALLESPTGTGKTLCLLCATLAYRKSL-GPFSL-GMIPSS
+SSLKAK------------------
+>KAJ8429385.1 hypothetical protein Cgig2_002007 [Carnegiea gigantea]
+------------------------------------------MKFQIEDVTVYFPYDH-I
+YPEQYAYMVELKRALDAKG-HCLLEMPTGTGKTIALLSLITSYALSK-PSNPI-KLIYCT
+RTVHEM------------------
